@@ -10,7 +10,7 @@ fun main() {
     if (yas > 18) {
         println("Ehliyet alabilirsin.")
     } else {
-        println("Ehliyet alamazsın")
+        println("Ehliyet alamazsın.")
     }
 }
 
