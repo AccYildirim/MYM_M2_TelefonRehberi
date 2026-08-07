@@ -27,4 +27,9 @@ fun main() {
 
     alisVerisSepeti.clear()
     println("Alışveriş Sepeti: $alisVerisSepeti")
+
+    val isimler = mutableListOf("Ahmet", "Ayşe")
+
+    isimler[0] = "Mehmet"
+    println(isimler)
 }
